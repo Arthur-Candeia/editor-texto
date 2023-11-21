@@ -1,0 +1,16 @@
+{
+  "name": "10_editor-texto",
+  "version": "1.0.0",
+  "description": "Editor de texto com electron",
+  "main": "electron/main.js",
+  "scripts": {
+    "start": "electron electron/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "arthur candeia",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^27.1.0"
+  }
+}
